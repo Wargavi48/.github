@@ -5,10 +5,18 @@
 </div>
 
 ## About Wargavi48
-Wargavi 48 is JKT48V Fanbase. The purpose of this github organization is for store the code for our project (mostly private maybe we can add more public repo later)
+Wargavi48 is JKT48V Fanbase. The purpose of this github organization is for store the code for our project (mostly private maybe we can add more public repo later)
 
 # About JKT48V
-JKT48V is a sub unit from JKT48 which contain 3 virtual members [Kanaia Asa](https://virtualyoutuber.fandom.com/id/wiki/Kanaia_asa), [Tana Nona](https://virtualyoutuber.fandom.com/id/wiki/Tana_nona), [Pia Meraleo](https://virtualyoutuber.fandom.com/id/wiki/Pia_meraleo)
+JKT48V is a vitrual sub unit from JKT48.
+
+# Member of JKT48V
+
+1st Generation
+[Kanaia Asa](https://akb48.fandom.com/wiki/Kanaia_Asa) (Graduated), Tana Nona, and Pia Meraleo.
+
+2nd Generation
+[Sami Maono](https://akb48.fandom.com/wiki/Sami_Maono), [Isha Kirana](https://akb48.fandom.com/wiki/Isha_Kirana), and [Maura Nilambari](https://akb48.fandom.com/wiki/Maura_Nilambari).
 
 ## Join Us
 We as wargavi48 only have discord community you can join our discord [click this](https://discord.com/invite/ugxawwDe8v)
