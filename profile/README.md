@@ -4,18 +4,18 @@
   <img src="https://avatars.githubusercontent.com/u/161864106?s=200&v=4" />
 </div>
 
-## About Wargavi48
+# About Wargavi48
 Wargavi48 is JKT48V Fanbase. The purpose of this github organization is for store the code for our project (mostly private maybe we can add more public repo later)
 
 # About JKT48V
 JKT48V is a vitrual sub unit from JKT48.
 
-# Member of JKT48V
+## Member of JKT48V
 
-1st Generation
+1st Generation:
 [Kanaia Asa](https://akb48.fandom.com/wiki/Kanaia_Asa) (Graduated), Tana Nona, and Pia Meraleo.
 
-2nd Generation
+2nd Generation:
 [Sami Maono](https://akb48.fandom.com/wiki/Sami_Maono), [Isha Kirana](https://akb48.fandom.com/wiki/Isha_Kirana), and [Maura Nilambari](https://akb48.fandom.com/wiki/Maura_Nilambari).
 
 ## Join Us
