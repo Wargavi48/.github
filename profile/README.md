@@ -13,7 +13,7 @@ JKT48V is a vitrual sub unit from JKT48.
 ## Member of JKT48V
 
 1st Generation:
-[Kanaia Asa](https://akb48.fandom.com/wiki/Kanaia_Asa) (Graduated), Tana Nona, and Pia Meraleo.
+[Kanaia Asa](https://akb48.fandom.com/wiki/Kanaia_Asa) (Graduated), [Tana Nona](https://akb48.fandom.com/wiki/Tana_Nona), and [Pia Meraleo](https://akb48.fandom.com/wiki/Pia_Meraleo).
 
 2nd Generation:
 [Sami Maono](https://akb48.fandom.com/wiki/Sami_Maono), [Isha Kirana](https://akb48.fandom.com/wiki/Isha_Kirana), and [Maura Nilambari](https://akb48.fandom.com/wiki/Maura_Nilambari).
